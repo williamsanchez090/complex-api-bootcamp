@@ -1,22 +1,9 @@
 # 📊 Project: Complex API 
+![image](https://user-images.githubusercontent.com/101963767/172076035-1dbde429-7f0e-4aef-8c41-10558bd8172f.png)
+
 
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
 
-### How to submit your code for review:
+### Optimization:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Lesson learned: I learned that postman is a valuable asset when trying to see which apis can work well together.
